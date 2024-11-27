@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86edaa4d41b740e4a87ddabfdbaf4d22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carrotPrefab: {fileID: 4333536560383591219, guid: ac3960763d9ed134b93e9bf2315734f3, type: 3}
+  - scoreText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
